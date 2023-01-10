@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Pekanbaru Apps</string>
+    <string name="search_home">Cari info pelayanan</string>
+    <string name="profil_kota">Profil Kota</string>
+    <string name="layanan_publik">Layanan Publik</string>
+    <string name="perizinan">Perizinan &amp; Bisnis</string>
+    <string name="layanan">Layanan Kepegawaian</string>
+    <string name="hukum">Produk Hukum</string>
+    <string name="data">Bank Data</string>
+    <string name="statistik">Data Statistik Sektoral</string>
+    <string name="pekanbaru">Hotel Pekanbaru</string>
+    <string name="restoran">Restoran Pekanbaru</string>
+    <string name="pariwisata">Pariwisata Pekanbaru</string>
+    <string name="belanja">Pusat Perbelanjaan</string>
+    <string name="info_pasar">Info Pasar</string>
+    <string name="info_pendidikan">Info Pendidikan</string>
+    <string name="kerja_pelatihan">Kerja &amp; Pelatihan</string>
+    <string name="kesehatan">Fasilitas Kesehatan</string>
+
+    <string name="label">Label</string>
+    <string name="berita">Berita</string>
+    <string name="pengumuman">Pengumuman</string>
+    <string name="magazine">Magazine</string>
+    <string name="galeri">Galeri</string>
+</resources>
